@@ -75,7 +75,7 @@ const faqItems = [
   },
   {
     question: 'Can I upgrade or downgrade my subscription?',
-    answer: 'Absolutely! You can change your subscription plan at any time. When upgrading, you'll immediately get access to additional features. When downgrading, the change will take effect at the end of your current billing cycle.',
+    answer: 'Absolutely! You can change your subscription plan at any time. When upgrading, you\'ll immediately get access to additional features. When downgrading, the change will take effect at the end of your current billing cycle.',
   },
   {
     question: 'Is my data secure with WKND?',
